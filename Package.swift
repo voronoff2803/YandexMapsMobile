@@ -27,7 +27,7 @@ let package = Package(
             checksum: "5f2bd884971ee00130f9096d27c8f3edc8e58ec7965761314ffeaf3156defc95"
         ),
         .target(
-            name: "YandexMapsMobileSPM",
+            name: "YandexMapsMobile",
             dependencies: [
                 .target(name: "YandexMapsMobile"),
             ],
